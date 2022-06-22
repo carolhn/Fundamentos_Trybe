@@ -1,0 +1,21 @@
+(Bônus) - Parte IV - O despertar do terminal
+
+E pra terminar com a energia óh, lá no alto, que tal aprender agora alguns comandos divertidos do Unix? ☝ 🎊
+Se você utiliza macOS, precisa ter o gerenciador de pacotes brew instalado, para isso, siga as orientações neste link.
+Após instalar o brew, instale o factor e o telnet:
+Para instalar o factor, execute no terminal: brew install coreutils;
+Para instalar o telnet, execute no terminal:brew install telnet.
+
+(*)Se você utiliza o Linux, abra o terminal e execute o comando sudo apt-get install cmatrix.
+Quando estiver se sentindo como o Neo, aperte ctrl+c para voltar ao terminal;
+
+
+(*)Execute o comando sudo apt-get install sl em um terminal Linux. Após a instalação, execute o comando sl. Agora tente sl -F;
+
+No sistema Linux, execute o comando sudo apt-get install cowsay. Após a instalação, execute o comando cowsay e algo que você queira falar. Agora faça a vaquinha dizer a frase que está gravada no arquivo fortune.txt;
+
+(*)Descubra os fatores primos usando o comando factor e em seguida o número 42 ;
+
+(*)Execute o comando telnet towel.blinkenlights.nl e espere alguns segundos. Lembre-se que você tem mais exercícios para fazer! 😅
+
+
