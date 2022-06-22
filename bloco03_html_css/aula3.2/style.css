@@ -1,0 +1,26 @@
+
+      h1{ 
+        font-family:sans-serif;
+      }
+      body{ 
+
+        font-size: 16px ;            /*tamanho da letra*/
+    font-weight: 600;            /* negrito da linha*/
+    font-style:italic;         /*tipo de fonte letra */
+    line-height:40px;           /*espaçamento entre as linhas*/
+    text-align:justify         /*centrlizar no meio da pagina as palavras */
+    text-decoration:underline;  /* sublinhado*/
+     }
+
+     
+    #primeiro {
+         background-color:yellow}
+
+    #segundo{ 
+        background-color:red
+
+    }
+
+    #terceiro{
+        background-color:saddlebrown
+    }

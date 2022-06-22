@@ -1,0 +1,18 @@
+
+h1,p {
+        text-align: center;
+}
+
+ul:hover, ol:hover {
+    background-color: pink
+}
+
+li:active {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+li {
+    list-style:none;
+}
